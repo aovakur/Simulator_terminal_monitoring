@@ -1,0 +1,19 @@
+{
+  "deviceCount": 10,
+  "uidPool": "./uid-pool.json",
+  "serverUrl": "ws://localhost:3005/socket",
+  "basePort": 3005,
+  "reconnectInterval": 5000,
+  "workDir": "./simulator/devices",
+  "logLevel": "info",
+  "batchConnect": {
+    "enabled": true,
+    "batchSize": 50,
+    "batchDelay": 1000
+  },
+  "autoRespond": {
+    "deviceStatus": true,
+    "fileTransfer": true,
+    "logRequest": true
+  }
+}

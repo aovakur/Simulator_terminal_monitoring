@@ -1,0 +1,38 @@
+{"level":50,"time":"2026-04-06T20:38:38.877Z","pid":26004,"module":"client","msg":"Failed to send DeviceStatus: this.GetdeviceInfos is not a function"}
+{"level":50,"time":"2026-04-07T14:12:17.476Z","pid":32052,"module":"client","msg":"WebSocket error:"}
+{"level":40,"time":"2026-04-07T14:12:17.476Z","pid":32052,"module":"client","msg":"Connection closed (code: 1006). Reason: . Reconnecting..."}
+{"level":50,"time":"2026-04-07T14:12:19.001Z","pid":32052,"module":"client","msg":"WebSocket error:"}
+{"level":40,"time":"2026-04-07T14:12:19.001Z","pid":32052,"module":"client","msg":"Connection closed (code: 1006). Reason: . Reconnecting..."}
+{"level":50,"time":"2026-04-07T14:12:21.261Z","pid":32052,"module":"client","msg":"WebSocket error:"}
+{"level":40,"time":"2026-04-07T14:12:21.261Z","pid":32052,"module":"client","msg":"Connection closed (code: 1006). Reason: . Reconnecting..."}
+{"level":50,"time":"2026-04-07T14:12:24.645Z","pid":32052,"module":"client","msg":"WebSocket error:"}
+{"level":40,"time":"2026-04-07T14:12:24.645Z","pid":32052,"module":"client","msg":"Connection closed (code: 1006). Reason: . Reconnecting..."}
+{"level":50,"time":"2026-04-07T14:12:29.718Z","pid":32052,"module":"client","msg":"WebSocket error:"}
+{"level":40,"time":"2026-04-07T14:12:29.718Z","pid":32052,"module":"client","msg":"Connection closed (code: 1006). Reason: . Reconnecting..."}
+{"level":50,"time":"2026-04-07T14:13:11.104Z","pid":23400,"module":"client","msg":"WebSocket error:"}
+{"level":40,"time":"2026-04-07T14:13:11.104Z","pid":23400,"module":"client","msg":"Connection closed (code: 1006). Reason: . Reconnecting..."}
+{"level":50,"time":"2026-04-07T14:13:12.617Z","pid":23400,"module":"client","msg":"WebSocket error:"}
+{"level":40,"time":"2026-04-07T14:13:12.618Z","pid":23400,"module":"client","msg":"Connection closed (code: 1006). Reason: . Reconnecting..."}
+{"level":50,"time":"2026-04-07T14:13:14.884Z","pid":23400,"module":"client","msg":"WebSocket error:"}
+{"level":40,"time":"2026-04-07T14:13:14.884Z","pid":23400,"module":"client","msg":"Connection closed (code: 1006). Reason: . Reconnecting..."}
+{"level":50,"time":"2026-04-07T14:13:18.282Z","pid":23400,"module":"client","msg":"WebSocket error:"}
+{"level":40,"time":"2026-04-07T14:13:18.283Z","pid":23400,"module":"client","msg":"Connection closed (code: 1006). Reason: . Reconnecting..."}
+{"level":50,"time":"2026-04-07T14:13:23.369Z","pid":23400,"module":"client","msg":"WebSocket error:"}
+{"level":40,"time":"2026-04-07T14:13:23.369Z","pid":23400,"module":"client","msg":"Connection closed (code: 1006). Reason: . Reconnecting..."}
+{"level":50,"time":"2026-04-07T14:13:30.982Z","pid":23400,"module":"client","msg":"WebSocket error:"}
+{"level":40,"time":"2026-04-07T14:13:30.982Z","pid":23400,"module":"client","msg":"Connection closed (code: 1006). Reason: . Reconnecting..."}
+{"level":50,"time":"2026-04-07T14:13:42.380Z","pid":23400,"module":"client","msg":"WebSocket error:"}
+{"level":40,"time":"2026-04-07T14:13:42.380Z","pid":23400,"module":"client","msg":"Connection closed (code: 1006). Reason: . Reconnecting..."}
+{"level":50,"time":"2026-04-07T14:13:59.486Z","pid":23400,"module":"client","msg":"WebSocket error:"}
+{"level":40,"time":"2026-04-07T14:13:59.486Z","pid":23400,"module":"client","msg":"Connection closed (code: 1006). Reason: . Reconnecting..."}
+{"level":40,"time":"2026-04-07T14:15:04.908Z","pid":22268,"module":"client","msg":"Connection closed (code: 1006). Reason: . Reconnecting..."}
+{"level":50,"time":"2026-04-07T14:15:06.413Z","pid":22268,"module":"client","msg":"WebSocket error:"}
+{"level":40,"time":"2026-04-07T14:15:06.413Z","pid":22268,"module":"client","msg":"Connection closed (code: 1006). Reason: . Reconnecting..."}
+{"level":40,"time":"2026-04-07T14:15:09.982Z","pid":22268,"module":"client","msg":"Connection closed (code: 1006). Reason: . Reconnecting..."}
+{"level":50,"time":"2026-04-07T14:15:11.489Z","pid":22268,"module":"client","msg":"WebSocket error:"}
+{"level":40,"time":"2026-04-07T14:15:11.489Z","pid":22268,"module":"client","msg":"Connection closed (code: 1006). Reason: . Reconnecting..."}
+{"level":40,"time":"2026-04-07T14:15:11.519Z","pid":22268,"module":"client","msg":"❗ WebSocket is not open, cannot send"}
+{"level":50,"time":"2026-04-07T14:15:13.746Z","pid":22268,"module":"client","msg":"WebSocket error:"}
+{"level":40,"time":"2026-04-07T14:15:13.746Z","pid":22268,"module":"client","msg":"Connection closed (code: 1006). Reason: . Reconnecting..."}
+{"level":50,"time":"2026-04-07T14:58:51.696Z","pid":35860,"module":"client","msg":"❌ Source proto not found: c:\\GIT_REPOS\\TCM\\src\\proto\\message.proto"}
+{"level":40,"time":"2026-04-07T15:00:43.950Z","pid":18192,"module":"client","msg":"Connection closed (code: 1011). Reason: Internal error. Reconnecting..."}

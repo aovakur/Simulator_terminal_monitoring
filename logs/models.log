@@ -1,0 +1,112 @@
+{"level":30,"time":"2026-04-06T17:08:53.669Z","pid":33452,"module":"models","msg":"✅ Sequelize connection loaded from db.js"}
+{"level":30,"time":"2026-04-06T17:08:53.670Z","pid":33452,"module":"models","msg":"🔍 Found 6 model(s):"}
+{"level":30,"time":"2026-04-06T17:08:53.685Z","pid":33452,"module":"models","msg":"✅ Model loaded: DeviceEvent (DeviceEvent.js)"}
+{"level":30,"time":"2026-04-06T17:08:53.686Z","pid":33452,"module":"models","msg":"✅ Model loaded: G_UPDATE_DEF (G_UPDATE_DEF.js)"}
+{"level":30,"time":"2026-04-06T17:08:53.694Z","pid":33452,"module":"models","msg":"✅ Model loaded: m_term_cmd (m_term_cmd.js)"}
+{"level":30,"time":"2026-04-06T17:08:53.696Z","pid":33452,"module":"models","msg":"✅ Model loaded: m_term_ctl (m_term_ctl.js)"}
+{"level":30,"time":"2026-04-06T17:08:53.699Z","pid":33452,"module":"models","msg":"✅ Model loaded: m_term_def (m_term_def.js)"}
+{"level":30,"time":"2026-04-06T17:08:53.700Z","pid":33452,"module":"models","msg":"✅ Model loaded: Organization (Organization.js)"}
+{"level":20,"time":"2026-04-06T17:08:53.700Z","pid":33452,"module":"models","msg":"🔹 Model DeviceEvent has no associations"}
+{"level":20,"time":"2026-04-06T17:08:53.701Z","pid":33452,"module":"models","msg":"🔹 Model G_UPDATE_DEF has no associations"}
+{"level":20,"time":"2026-04-06T17:08:53.701Z","pid":33452,"module":"models","msg":"🔹 Model m_term_cmd has no associations"}
+{"level":20,"time":"2026-04-06T17:08:53.701Z","pid":33452,"module":"models","msg":"🔹 Model m_term_ctl has no associations"}
+{"level":30,"time":"2026-04-06T17:08:53.703Z","pid":33452,"module":"models","msg":"🔗 Association applied: m_term_def"}
+{"level":30,"time":"2026-04-06T17:08:53.704Z","pid":33452,"module":"models","msg":"🔗 Association applied: Organization"}
+{"level":30,"time":"2026-04-06T17:08:53.704Z","pid":33452,"module":"models","msg":"✅ All associations successfully assigned"}
+{"level":30,"time":"2026-04-06T17:08:53.704Z","pid":33452,"module":"models","msg":"🎉 Model initialization completed. Loaded 6 models"}
+{"level":30,"time":"2026-04-06T17:10:14.271Z","pid":38148,"module":"models","msg":"✅ Sequelize connection loaded from db.js"}
+{"level":30,"time":"2026-04-06T17:10:14.273Z","pid":38148,"module":"models","msg":"🔍 Found 6 model(s):"}
+{"level":30,"time":"2026-04-06T17:10:14.289Z","pid":38148,"module":"models","msg":"✅ Model loaded: DeviceEvent (DeviceEvent.js)"}
+{"level":30,"time":"2026-04-06T17:10:14.292Z","pid":38148,"module":"models","msg":"✅ Model loaded: G_UPDATE_DEF (G_UPDATE_DEF.js)"}
+{"level":30,"time":"2026-04-06T17:10:14.297Z","pid":38148,"module":"models","msg":"✅ Model loaded: m_term_cmd (m_term_cmd.js)"}
+{"level":30,"time":"2026-04-06T17:10:14.299Z","pid":38148,"module":"models","msg":"✅ Model loaded: m_term_ctl (m_term_ctl.js)"}
+{"level":30,"time":"2026-04-06T17:10:14.303Z","pid":38148,"module":"models","msg":"✅ Model loaded: m_term_def (m_term_def.js)"}
+{"level":30,"time":"2026-04-06T17:10:14.306Z","pid":38148,"module":"models","msg":"✅ Model loaded: Organization (Organization.js)"}
+{"level":20,"time":"2026-04-06T17:10:14.307Z","pid":38148,"module":"models","msg":"🔹 Model DeviceEvent has no associations"}
+{"level":20,"time":"2026-04-06T17:10:14.307Z","pid":38148,"module":"models","msg":"🔹 Model G_UPDATE_DEF has no associations"}
+{"level":20,"time":"2026-04-06T17:10:14.307Z","pid":38148,"module":"models","msg":"🔹 Model m_term_cmd has no associations"}
+{"level":20,"time":"2026-04-06T17:10:14.307Z","pid":38148,"module":"models","msg":"🔹 Model m_term_ctl has no associations"}
+{"level":30,"time":"2026-04-06T17:10:14.313Z","pid":38148,"module":"models","msg":"🔗 Association applied: m_term_def"}
+{"level":30,"time":"2026-04-06T17:10:14.314Z","pid":38148,"module":"models","msg":"🔗 Association applied: Organization"}
+{"level":30,"time":"2026-04-06T17:10:14.314Z","pid":38148,"module":"models","msg":"✅ All associations successfully assigned"}
+{"level":30,"time":"2026-04-06T17:10:14.314Z","pid":38148,"module":"models","msg":"🎉 Model initialization completed. Loaded 6 models"}
+{"level":30,"time":"2026-04-06T17:12:56.106Z","pid":22736,"module":"models","msg":"✅ Sequelize connection loaded from db.js"}
+{"level":30,"time":"2026-04-06T17:12:56.107Z","pid":22736,"module":"models","msg":"🔍 Found 6 model(s):"}
+{"level":30,"time":"2026-04-06T17:12:56.118Z","pid":22736,"module":"models","msg":"✅ Model loaded: DeviceEvent (DeviceEvent.js)"}
+{"level":30,"time":"2026-04-06T17:12:56.121Z","pid":22736,"module":"models","msg":"✅ Model loaded: G_UPDATE_DEF (G_UPDATE_DEF.js)"}
+{"level":30,"time":"2026-04-06T17:12:56.124Z","pid":22736,"module":"models","msg":"✅ Model loaded: m_term_cmd (m_term_cmd.js)"}
+{"level":30,"time":"2026-04-06T17:12:56.126Z","pid":22736,"module":"models","msg":"✅ Model loaded: m_term_ctl (m_term_ctl.js)"}
+{"level":30,"time":"2026-04-06T17:12:56.129Z","pid":22736,"module":"models","msg":"✅ Model loaded: m_term_def (m_term_def.js)"}
+{"level":30,"time":"2026-04-06T17:12:56.131Z","pid":22736,"module":"models","msg":"✅ Model loaded: Organization (Organization.js)"}
+{"level":20,"time":"2026-04-06T17:12:56.131Z","pid":22736,"module":"models","msg":"🔹 Model DeviceEvent has no associations"}
+{"level":20,"time":"2026-04-06T17:12:56.131Z","pid":22736,"module":"models","msg":"🔹 Model G_UPDATE_DEF has no associations"}
+{"level":20,"time":"2026-04-06T17:12:56.131Z","pid":22736,"module":"models","msg":"🔹 Model m_term_cmd has no associations"}
+{"level":20,"time":"2026-04-06T17:12:56.131Z","pid":22736,"module":"models","msg":"🔹 Model m_term_ctl has no associations"}
+{"level":30,"time":"2026-04-06T17:12:56.140Z","pid":22736,"module":"models","msg":"🔗 Association applied: m_term_def"}
+{"level":30,"time":"2026-04-06T17:12:56.141Z","pid":22736,"module":"models","msg":"🔗 Association applied: Organization"}
+{"level":30,"time":"2026-04-06T17:12:56.141Z","pid":22736,"module":"models","msg":"✅ All associations successfully assigned"}
+{"level":30,"time":"2026-04-06T17:12:56.141Z","pid":22736,"module":"models","msg":"🎉 Model initialization completed. Loaded 6 models"}
+{"level":30,"time":"2026-04-06T17:13:58.301Z","pid":22632,"module":"models","msg":"✅ Sequelize connection loaded from db.js"}
+{"level":30,"time":"2026-04-06T17:13:58.302Z","pid":22632,"module":"models","msg":"🔍 Found 6 model(s):"}
+{"level":30,"time":"2026-04-06T17:13:58.309Z","pid":22632,"module":"models","msg":"✅ Model loaded: DeviceEvent (DeviceEvent.js)"}
+{"level":30,"time":"2026-04-06T17:13:58.311Z","pid":22632,"module":"models","msg":"✅ Model loaded: G_UPDATE_DEF (G_UPDATE_DEF.js)"}
+{"level":30,"time":"2026-04-06T17:13:58.313Z","pid":22632,"module":"models","msg":"✅ Model loaded: m_term_cmd (m_term_cmd.js)"}
+{"level":30,"time":"2026-04-06T17:13:58.315Z","pid":22632,"module":"models","msg":"✅ Model loaded: m_term_ctl (m_term_ctl.js)"}
+{"level":30,"time":"2026-04-06T17:13:58.317Z","pid":22632,"module":"models","msg":"✅ Model loaded: m_term_def (m_term_def.js)"}
+{"level":30,"time":"2026-04-06T17:13:58.318Z","pid":22632,"module":"models","msg":"✅ Model loaded: Organization (Organization.js)"}
+{"level":20,"time":"2026-04-06T17:13:58.318Z","pid":22632,"module":"models","msg":"🔹 Model DeviceEvent has no associations"}
+{"level":20,"time":"2026-04-06T17:13:58.318Z","pid":22632,"module":"models","msg":"🔹 Model G_UPDATE_DEF has no associations"}
+{"level":20,"time":"2026-04-06T17:13:58.318Z","pid":22632,"module":"models","msg":"🔹 Model m_term_cmd has no associations"}
+{"level":20,"time":"2026-04-06T17:13:58.318Z","pid":22632,"module":"models","msg":"🔹 Model m_term_ctl has no associations"}
+{"level":30,"time":"2026-04-06T17:13:58.323Z","pid":22632,"module":"models","msg":"🔗 Association applied: m_term_def"}
+{"level":30,"time":"2026-04-06T17:13:58.324Z","pid":22632,"module":"models","msg":"🔗 Association applied: Organization"}
+{"level":30,"time":"2026-04-06T17:13:58.324Z","pid":22632,"module":"models","msg":"✅ All associations successfully assigned"}
+{"level":30,"time":"2026-04-06T17:13:58.324Z","pid":22632,"module":"models","msg":"🎉 Model initialization completed. Loaded 6 models"}
+{"level":30,"time":"2026-04-06T17:14:43.693Z","pid":32508,"module":"models","msg":"✅ Sequelize connection loaded from db.js"}
+{"level":30,"time":"2026-04-06T17:14:43.693Z","pid":32508,"module":"models","msg":"🔍 Found 6 model(s):"}
+{"level":30,"time":"2026-04-06T17:14:43.701Z","pid":32508,"module":"models","msg":"✅ Model loaded: DeviceEvent (DeviceEvent.js)"}
+{"level":30,"time":"2026-04-06T17:14:43.703Z","pid":32508,"module":"models","msg":"✅ Model loaded: G_UPDATE_DEF (G_UPDATE_DEF.js)"}
+{"level":30,"time":"2026-04-06T17:14:43.706Z","pid":32508,"module":"models","msg":"✅ Model loaded: m_term_cmd (m_term_cmd.js)"}
+{"level":30,"time":"2026-04-06T17:14:43.708Z","pid":32508,"module":"models","msg":"✅ Model loaded: m_term_ctl (m_term_ctl.js)"}
+{"level":30,"time":"2026-04-06T17:14:43.709Z","pid":32508,"module":"models","msg":"✅ Model loaded: m_term_def (m_term_def.js)"}
+{"level":30,"time":"2026-04-06T17:14:43.710Z","pid":32508,"module":"models","msg":"✅ Model loaded: Organization (Organization.js)"}
+{"level":20,"time":"2026-04-06T17:14:43.710Z","pid":32508,"module":"models","msg":"🔹 Model DeviceEvent has no associations"}
+{"level":20,"time":"2026-04-06T17:14:43.710Z","pid":32508,"module":"models","msg":"🔹 Model G_UPDATE_DEF has no associations"}
+{"level":20,"time":"2026-04-06T17:14:43.710Z","pid":32508,"module":"models","msg":"🔹 Model m_term_cmd has no associations"}
+{"level":20,"time":"2026-04-06T17:14:43.710Z","pid":32508,"module":"models","msg":"🔹 Model m_term_ctl has no associations"}
+{"level":30,"time":"2026-04-06T17:14:43.716Z","pid":32508,"module":"models","msg":"🔗 Association applied: m_term_def"}
+{"level":30,"time":"2026-04-06T17:14:43.717Z","pid":32508,"module":"models","msg":"🔗 Association applied: Organization"}
+{"level":30,"time":"2026-04-06T17:14:43.717Z","pid":32508,"module":"models","msg":"✅ All associations successfully assigned"}
+{"level":30,"time":"2026-04-06T17:14:43.717Z","pid":32508,"module":"models","msg":"🎉 Model initialization completed. Loaded 6 models"}
+{"level":30,"time":"2026-04-06T17:14:52.858Z","pid":32808,"module":"models","msg":"✅ Sequelize connection loaded from db.js"}
+{"level":30,"time":"2026-04-06T17:14:52.859Z","pid":32808,"module":"models","msg":"🔍 Found 6 model(s):"}
+{"level":30,"time":"2026-04-06T17:14:52.870Z","pid":32808,"module":"models","msg":"✅ Model loaded: DeviceEvent (DeviceEvent.js)"}
+{"level":30,"time":"2026-04-06T17:14:52.873Z","pid":32808,"module":"models","msg":"✅ Model loaded: G_UPDATE_DEF (G_UPDATE_DEF.js)"}
+{"level":30,"time":"2026-04-06T17:14:52.875Z","pid":32808,"module":"models","msg":"✅ Model loaded: m_term_cmd (m_term_cmd.js)"}
+{"level":30,"time":"2026-04-06T17:14:52.879Z","pid":32808,"module":"models","msg":"✅ Model loaded: m_term_ctl (m_term_ctl.js)"}
+{"level":30,"time":"2026-04-06T17:14:52.881Z","pid":32808,"module":"models","msg":"✅ Model loaded: m_term_def (m_term_def.js)"}
+{"level":30,"time":"2026-04-06T17:14:52.883Z","pid":32808,"module":"models","msg":"✅ Model loaded: Organization (Organization.js)"}
+{"level":20,"time":"2026-04-06T17:14:52.883Z","pid":32808,"module":"models","msg":"🔹 Model DeviceEvent has no associations"}
+{"level":20,"time":"2026-04-06T17:14:52.883Z","pid":32808,"module":"models","msg":"🔹 Model G_UPDATE_DEF has no associations"}
+{"level":20,"time":"2026-04-06T17:14:52.883Z","pid":32808,"module":"models","msg":"🔹 Model m_term_cmd has no associations"}
+{"level":20,"time":"2026-04-06T17:14:52.883Z","pid":32808,"module":"models","msg":"🔹 Model m_term_ctl has no associations"}
+{"level":30,"time":"2026-04-06T17:14:52.886Z","pid":32808,"module":"models","msg":"🔗 Association applied: m_term_def"}
+{"level":30,"time":"2026-04-06T17:14:52.887Z","pid":32808,"module":"models","msg":"🔗 Association applied: Organization"}
+{"level":30,"time":"2026-04-06T17:14:52.887Z","pid":32808,"module":"models","msg":"✅ All associations successfully assigned"}
+{"level":30,"time":"2026-04-06T17:14:52.887Z","pid":32808,"module":"models","msg":"🎉 Model initialization completed. Loaded 6 models"}
+{"level":30,"time":"2026-04-06T17:15:51.306Z","pid":20756,"module":"models","msg":"✅ Sequelize connection loaded from db.js"}
+{"level":30,"time":"2026-04-06T17:15:51.307Z","pid":20756,"module":"models","msg":"🔍 Found 6 model(s):"}
+{"level":30,"time":"2026-04-06T17:15:51.319Z","pid":20756,"module":"models","msg":"✅ Model loaded: DeviceEvent (DeviceEvent.js)"}
+{"level":30,"time":"2026-04-06T17:15:51.321Z","pid":20756,"module":"models","msg":"✅ Model loaded: G_UPDATE_DEF (G_UPDATE_DEF.js)"}
+{"level":30,"time":"2026-04-06T17:15:51.324Z","pid":20756,"module":"models","msg":"✅ Model loaded: m_term_cmd (m_term_cmd.js)"}
+{"level":30,"time":"2026-04-06T17:15:51.329Z","pid":20756,"module":"models","msg":"✅ Model loaded: m_term_ctl (m_term_ctl.js)"}
+{"level":30,"time":"2026-04-06T17:15:51.330Z","pid":20756,"module":"models","msg":"✅ Model loaded: m_term_def (m_term_def.js)"}
+{"level":30,"time":"2026-04-06T17:15:51.331Z","pid":20756,"module":"models","msg":"✅ Model loaded: Organization (Organization.js)"}
+{"level":20,"time":"2026-04-06T17:15:51.331Z","pid":20756,"module":"models","msg":"🔹 Model DeviceEvent has no associations"}
+{"level":20,"time":"2026-04-06T17:15:51.331Z","pid":20756,"module":"models","msg":"🔹 Model G_UPDATE_DEF has no associations"}
+{"level":20,"time":"2026-04-06T17:15:51.331Z","pid":20756,"module":"models","msg":"🔹 Model m_term_cmd has no associations"}
+{"level":20,"time":"2026-04-06T17:15:51.331Z","pid":20756,"module":"models","msg":"🔹 Model m_term_ctl has no associations"}
+{"level":30,"time":"2026-04-06T17:15:51.335Z","pid":20756,"module":"models","msg":"🔗 Association applied: m_term_def"}
+{"level":30,"time":"2026-04-06T17:15:51.335Z","pid":20756,"module":"models","msg":"🔗 Association applied: Organization"}
+{"level":30,"time":"2026-04-06T17:15:51.335Z","pid":20756,"module":"models","msg":"✅ All associations successfully assigned"}
+{"level":30,"time":"2026-04-06T17:15:51.335Z","pid":20756,"module":"models","msg":"🎉 Model initialization completed. Loaded 6 models"}

@@ -1,0 +1,17 @@
+{
+  "name": "tcm-device-simulator",
+  "version": "1.0.0",
+  "description": "Device simulator for TCM server testing",
+  "main": "run-simulator.js",
+  "scripts": {
+    "start": "node run-simulator.js",
+    "start:10": "node -e \"const fs=require('fs'); const c=JSON.parse(fs.readFileSync('simulator-config.json','utf-8')); c.deviceCount=10; fs.writeFileSync('simulator-config.json',JSON.stringify(c,null,2));\" && node run-simulator.js",
+    "start:100": "node -e \"const fs=require('fs'); const c=JSON.parse(fs.readFileSync('simulator-config.json','utf-8')); c.deviceCount=100; fs.writeFileSync('simulator-config.json',JSON.stringify(c,null,2));\" && node run-simulator.js",
+    "start:1000": "node -e \"const fs=require('fs'); const c=JSON.parse(fs.readFileSync('simulator-config.json','utf-8')); c.deviceCount=1000; fs.writeFileSync('simulator-config.json',JSON.stringify(c,null,2));\" && node run-simulator.js"
+  },
+  "dependencies": {
+    "uuid": "^9.0.1",
+    "ws": "^8.14.2"
+  },
+  "license": "ISC"
+}
